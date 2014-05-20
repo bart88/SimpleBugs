@@ -1,6 +1,13 @@
 <?php if ( ! defined('BASEPATH')) exit('No direct script access allowed');
 
-class Issues extends MY_Controller {
+/**
+ * Issues Controller 
+ * 
+ * @version 
+ * @since 
+ */
+class Issues extends MY_Controller 
+{
 	
 	public function __construct()
 	{
